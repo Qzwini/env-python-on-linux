@@ -4,14 +4,13 @@
 ```Install PIP On Debian/Ubuntu```
 
     $ sudo apt install python3-pip	
+    or
+    $ sudo apt-get install python3-pip
 
 ```Install PIP on Arch Linux```
 
     $ pacman -S python-pip
 
-### Install **pip** first
-
-    $ sudo apt-get install python3-pip
 
 ### Then install **virtualenv** using pip3
 
